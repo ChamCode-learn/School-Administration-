@@ -1,2 +1,2 @@
-# School-Administration-
+# School Administration
 Online School Management System
